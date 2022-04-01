@@ -1,0 +1,35 @@
+{
+  "name": "@stdlib/stats-base-dists-exponential-mode",
+  "version": "0.0.0",
+  "description": "Exponential distribution mode.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-exponential-mode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "exponential",
+    "parameter",
+    "continuous",
+    "mode",
+    "location",
+    "center",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
