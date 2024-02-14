@@ -67,6 +67,11 @@ The [mode][mode] for an [exponential][exponential-distribution] random variable 
 ## Usage
 
 ```javascript
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-exponential-mode/tags). For example,
+
+```javascript
 import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@v0.2.0-esm/index.mjs';
 ```
 
@@ -117,7 +122,7 @@ var v = mode( -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@v0.2.0-esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@esm/index.mjs';
 
 var lambda;
 var v;
