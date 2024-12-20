@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-20)
+
+<section class="features">
+
+### Features
+
+-   [`7d9b63d`](https://github.com/stdlib-js/stdlib/commit/7d9b63ddd452bf4cc171bdd21cf666274d3eeb56) - add C implementation for `stats/base/dists/exponential/mode` [(#4047)](https://github.com/stdlib-js/stdlib/pull/4047)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3588](https://github.com/stdlib-js/stdlib/issues/3588)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7d9b63d`](https://github.com/stdlib-js/stdlib/commit/7d9b63ddd452bf4cc171bdd21cf666274d3eeb56) - **feat:** add C implementation for `stats/base/dists/exponential/mode` [(#4047)](https://github.com/stdlib-js/stdlib/pull/4047) _(by JoyBoy, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   JoyBoy
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
