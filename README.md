@@ -67,7 +67,7 @@ The [mode][mode] for an [exponential][exponential-distribution] random variable 
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@v0.3.1-esm/index.mjs';
 ```
 
 #### mode( lambda )
@@ -117,7 +117,7 @@ var v = mode( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-mode@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
