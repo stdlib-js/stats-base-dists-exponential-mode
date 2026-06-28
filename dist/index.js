@@ -1,5 +1,5 @@
-"use strict";var s=function(r,e){return function(){return e||r((e={exports:{}}).exports,e),e.exports}};var i=s(function(a,t){
-var u=require('@stdlib/math-base-assert-is-nan/dist');function n(r){return u(r)||r<0?NaN:0}t.exports=n
-});var o=i();module.exports=o;
+"use strict";var s=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(n){throw (r=0, n)}};};var i=s(function(f,t){
+var u=require('@stdlib/math-base-assert-is-nan/dist');function o(e){return u(e)||e<0?NaN:0}t.exports=o
+});var a=i();module.exports=a;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
